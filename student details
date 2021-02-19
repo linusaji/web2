@@ -1,0 +1,19 @@
+<html>
+  <head></head><title>Details of student</title>
+<body bgcolor="light blue">
+  <img width ="100" height="100" src="https://linusaji.github.io/web2/mbcet.png"></img>
+  <h1><center><fond color="yellow">MAR BASELIOS COLLEGE OF ENGINEERING AND TECHNOLOGY</FONT></CENTER></H1>
+  <BR><BR><BR>
+    <H2><CENTER><FOND COLOR="RED">student Registration form</CENTER></FONT></H2>
+    <BR>
+      <BR><center>
+        <FORM>STUDENT LOGIN
+          <INPUT TYPE="TEXT" ID="NAME"></INPUT><br><br><br>
+          Rollno&nbsp<T><INPUT TYPE="Rollno" ID="roll"></INPUT><br><br><br><BR>
+          GENDER<INPUT TYPE="RADIO" VALUE="MALE"><INPUT TYPE="RADIO" VALUE="FEMALE"></INPUT>
+          QUALIFICATION<INPUT TYPE="CHECKBOX" VALUE="SSLC"><INPUT TYPE="CHECKBOX" VALUE="PLUS II">
+          <INPUT TYPE="CHECKBOX" VALUE="OTHER"</INPUT>
+          <INPUT TYPE="SAVE" VALUE="SAVE"></INPUT>
+          <INPUT TYPE="RESET" VALUE=RESET"></center></form>
+</body>
+</html>
